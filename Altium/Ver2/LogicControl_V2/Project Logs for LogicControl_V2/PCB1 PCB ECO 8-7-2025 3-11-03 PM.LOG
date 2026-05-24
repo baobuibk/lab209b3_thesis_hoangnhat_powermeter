@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Relay Pin=LED1-1
+Removed Member From Class: ClassName=Sheet2 Member=R19
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Added Pin To Net: NetName=LED Pin=LED1-1
+Added Pin To Net: NetName=LED Pin=MD1-33
+Added Net: Name=LED

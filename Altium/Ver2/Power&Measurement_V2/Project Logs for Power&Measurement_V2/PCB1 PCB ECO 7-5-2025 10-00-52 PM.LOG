@@ -1,0 +1,46 @@
+Added Component: Designator=J5(SSM-105-XXX-DV-BE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm-105-s-dv/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssm-1xx-xxx-dv-xx-xx-xxx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSM105SDV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSM-105-S-DV?qs=XtX6y9BSeMiNY1vJI%2FFCQQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SSM-105-XXX-DV-BE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm-105-s-dv/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssm-1xx-xxx-dv-xx-xx-xxx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSM105SDV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSM-105-S-DV?qs=XtX6y9BSeMiNY1vJI%2FFCQQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PPEM_DO Pin=J5-1
+Added Pin To Net: NetName=CF4 Pin=J5-2
+Added Pin To Net: NetName=PPEM_DI Pin=J5-3
+Added Pin To Net: NetName=CF3 Pin=J5-4
+Added Pin To Net: NetName=PPEM_CK Pin=J5-5
+Added Pin To Net: NetName=CF2 Pin=J5-6
+Added Pin To Net: NetName=PPEM_CS Pin=J5-7
+Added Pin To Net: NetName=CF1 Pin=J5-8
+Added Pin To Net: NetName=NetJ5_9 Pin=J5-9
+Added Pin To Net: NetName=NetJ5_10 Pin=J5-10
+Added Pin To Net: NetName=+3.3V Pin=J5-11
+Added Pin To Net: NetName=NetJ5_12 Pin=J5-12
+Added Pin To Net: NetName=+5V Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_6 Pin=J6-6
+Added Pin To Net: NetName=NetJ6_7 Pin=J6-7
+Added Pin To Net: NetName=NetJ6_8 Pin=J6-8
+Added Pin To Net: NetName=NetJ6_9 Pin=J6-9
+Added Pin To Net: NetName=NetJ6_10 Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Member To Class: ClassName=Sheet3 Member=Component J5 SSM-106-S-DV
+Added Member To Class: ClassName=Sheet3 Member=Component J6 SSM-106-S-DV
+Added Member To Class: ClassName=Sheet2 Member=Component R? 0R/1%
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1K/1%

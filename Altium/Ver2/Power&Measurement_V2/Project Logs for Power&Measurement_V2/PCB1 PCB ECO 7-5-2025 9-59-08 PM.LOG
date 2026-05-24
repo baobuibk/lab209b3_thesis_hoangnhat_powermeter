@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=J4-1
+Removed Pin From Net: NetName=NetC2_1 Pin=J4-3
+Added Pin To Net: NetName=NetC2_1 Pin=J4-1
+Added Pin To Net: NetName=NetC2_2 Pin=J4-3
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-6
+Add Pin To Net: Unknown Pin: Pin J5-7
+Add Pin To Net: Unknown Pin: Pin J5-8
+Add Pin To Net: Unknown Pin: Pin J5-9
+Add Pin To Net: Unknown Pin: Pin J5-10
+Add Pin To Net: Unknown Pin: Pin J5-11
+Add Pin To Net: Unknown Pin: Pin J5-12
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin J6-8
+Add Pin To Net: Unknown Pin: Pin J6-9
+Add Pin To Net: Unknown Pin: Pin J6-10
+Add Pin To Net: Unknown Pin: Pin J6-11
+Add Pin To Net: Unknown Pin: Pin J6-12
+Add Class Member: Failed to add class member : Component J5 SSM-106-S-DV
+Add Class Member: Failed to add class member : Component J6 SSM-106-S-DV
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1K/1%
+Added Member To Class: ClassName=Sheet2 Member=Component R? 0R/1%

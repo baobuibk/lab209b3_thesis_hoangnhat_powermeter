@@ -1,0 +1,6 @@
+[submodule "Dashboard"]
+	path = Dashboard
+	url = https://github.com/nhat05027/power_meter_mqtt_webservice.git
+[submodule "Code"]
+	path = Code
+	url = https://github.com/nhat05027/PowerMeter.git

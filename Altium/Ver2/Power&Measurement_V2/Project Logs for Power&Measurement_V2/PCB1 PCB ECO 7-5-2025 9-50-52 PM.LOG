@@ -1,0 +1,942 @@
+Added Component: Designator=C1(CAP-ALU-SMD-6.3x7.7x2.2)
+Added Component: Designator=C2(CAPRR1500W60L1750T900H1600)
+Added Component: Designator=C3(CAP-ALU-SMD-6.3x7.7x2.2)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_C_2012X110)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_C_2012X110)
+Added Component: Designator=C15(CAP_C_2012X110)
+Added Component: Designator=C16(CAP_C_2012X110)
+Added Component: Designator=C17(CAP_C_2012X110)
+Added Component: Designator=C18(CAP_C_2012X110)
+Added Component: Designator=C19(CAP_C_2012X110)
+Added Component: Designator=C20(CAP_C_2012X110)
+Added Component: Designator=C21(CAP_C_2012X110)
+Added Component: Designator=C22(CAP_C_2012X110)
+Added Component: Designator=C23(CAP_C_2012X110)
+Added Component: Designator=C24(CAP_C_2012X110)
+Added Component: Designator=C25(CAP_C_2012X110)
+Added Component: Designator=C26(CAP_C_2012X110)
+Added Component: Designator=C27(CAP_C_2012X110)
+Added Component: Designator=C28(CAP_C_2012X110)
+Added Component: Designator=C29(CAP_C_2012X110)
+Added Component: Designator=C30(CAP_C_2012X110)
+Added Component: Designator=C31(CAP_C_2012X110)
+Added Component: Designator=C32(CAP_C_2012X110)
+Added Component: Designator=CT1(ZHT107)
+Added Component: Designator=CT2(ZHT107)
+Added Component: Designator=CT3(ZHT107)
+Added Component: Designator=D2(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SM712-02HTG/Littelfuse/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM712-02HTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM712-02HTG/Littelfuse/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LL-34)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LL-34)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LL-34)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LL-34)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOM5025X26N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=F1(RES_C_3216X70)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOIC-8)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(CUI_TBP01R2-508-06BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TBP01R2-508-06BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TBP01R2-508-06BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TBP01R2-508-06BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(CUI_TBP01R2-508-07BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TBP01R2-508-07BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TBP01R2-508-07BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TBP01R2-508-07BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(CUI_TBP05R2-762-04BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TBP05R2-762-04BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TBP05R2-762-04BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TBP05R2-762-04BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(CUI_TBP01R2-508-03BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TBP01R2-508-03BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TBP01R2-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TBP01R2-508-03BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K?(RELAY_SRA-05VDC-CL)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SRA-05VDC-CL/Songle+Relay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRA-05VDC-CL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SRA-05VDC-CL/Songle+Relay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(UU98LFH142LF)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/744284100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Christin Zierenner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "March 2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10mH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "744284100"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=PS1(CONV_HLK-5M05)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HLK-5M05/Hi-link/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLK-5M05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLK-5M05/Hi-link/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT-323)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-1W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_C_3216X70)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_C_3216X70)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_C_3216X70)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R61(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R63(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_C_2012X65)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Component: Designator=U2(B0505S-1W)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOP254P700X220-4N)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOP254P700X220-4N)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOP254P700X220-4N)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Component: Designator=U6(TSQFP50P900X900X120-48N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATM90E32AS-AU-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-48 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATM90E32AS-AU-R/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATM90E32AS-AU-R/Microchip/view-part/592639/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR1(B72214P2301K101)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(XT2-SMD)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C3-1
+Added Pin To Net: NetName=+3.3V Pin=C6-2
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=C14-2
+Added Pin To Net: NetName=+3.3V Pin=C15-2
+Added Pin To Net: NetName=+3.3V Pin=R2-1
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=+3.3V Pin=R9-1
+Added Pin To Net: NetName=+3.3V Pin=R20-2
+Added Pin To Net: NetName=+3.3V Pin=R22-2
+Added Pin To Net: NetName=+3.3V Pin=R23-2
+Added Pin To Net: NetName=+3.3V Pin=R24-2
+Added Pin To Net: NetName=+3.3V Pin=R25-2
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U6-1
+Added Pin To Net: NetName=+3.3V Pin=U6-48
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V_RS485 Pin=C9-2
+Added Pin To Net: NetName=+5V_RS485 Pin=C10-2
+Added Pin To Net: NetName=+5V_RS485 Pin=C11-2
+Added Pin To Net: NetName=+5V_RS485 Pin=IC1-8
+Added Pin To Net: NetName=+5V_RS485 Pin=R4-2
+Added Pin To Net: NetName=+5V_RS485 Pin=R8-2
+Added Pin To Net: NetName=+5V_RS485 Pin=R10-2
+Added Pin To Net: NetName=+5V_RS485 Pin=R11-2
+Added Pin To Net: NetName=+5V_RS485 Pin=U2-4
+Added Net: Name=+5V_RS485
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=D?-2
+Added Pin To Net: NetName=+5V Pin=K?-COIL1
+Added Pin To Net: NetName=+5V Pin=PS1-4
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=CF1 Pin=LED1-1
+Added Pin To Net: NetName=CF1 Pin=U6-25
+Added Net: Name=CF1
+Added Pin To Net: NetName=CF2 Pin=LED2-1
+Added Pin To Net: NetName=CF2 Pin=U6-26
+Added Net: Name=CF2
+Added Pin To Net: NetName=CF3 Pin=LED3-1
+Added Pin To Net: NetName=CF3 Pin=U6-27
+Added Net: Name=CF3
+Added Pin To Net: NetName=CF4 Pin=LED4-1
+Added Pin To Net: NetName=CF4 Pin=U6-28
+Added Net: Name=CF4
+Added Pin To Net: NetName=GND_RS485 Pin=C9-1
+Added Pin To Net: NetName=GND_RS485 Pin=C10-1
+Added Pin To Net: NetName=GND_RS485 Pin=C11-1
+Added Pin To Net: NetName=GND_RS485 Pin=C12-1
+Added Pin To Net: NetName=GND_RS485 Pin=C13-1
+Added Pin To Net: NetName=GND_RS485 Pin=D2-3
+Added Pin To Net: NetName=GND_RS485 Pin=D5-1
+Added Pin To Net: NetName=GND_RS485 Pin=D6-1
+Added Pin To Net: NetName=GND_RS485 Pin=IC1-5
+Added Pin To Net: NetName=GND_RS485 Pin=J2-5
+Added Pin To Net: NetName=GND_RS485 Pin=R15-1
+Added Pin To Net: NetName=GND_RS485 Pin=U2-3
+Added Pin To Net: NetName=GND_RS485 Pin=U4-3
+Added Pin To Net: NetName=GND_RS485 Pin=U5-3
+Added Net: Name=GND_RS485
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=F1-2
+Added Pin To Net: NetName=GND Pin=PS1-3
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=GND Pin=R45-2
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=GND Pin=R54-2
+Added Pin To Net: NetName=GND Pin=R62-2
+Added Pin To Net: NetName=GND Pin=R63-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=GND Pin=U6-32
+Added Pin To Net: NetName=GND Pin=U6-36
+Added Pin To Net: NetName=GND Pin=U6-44
+Added Pin To Net: NetName=GND Pin=U6-47
+Added Net: Name=GND
+Added Pin To Net: NetName=IAN Pin=C21-1
+Added Pin To Net: NetName=IAN Pin=R19-2
+Added Pin To Net: NetName=IAN Pin=U6-4
+Added Net: Name=IAN
+Added Pin To Net: NetName=IAP Pin=C20-2
+Added Pin To Net: NetName=IAP Pin=R16-2
+Added Pin To Net: NetName=IAP Pin=U6-3
+Added Net: Name=IAP
+Added Pin To Net: NetName=IBN Pin=C24-1
+Added Pin To Net: NetName=IBN Pin=R29-2
+Added Pin To Net: NetName=IBN Pin=U6-6
+Added Net: Name=IBN
+Added Pin To Net: NetName=IBP Pin=C22-2
+Added Pin To Net: NetName=IBP Pin=R21-2
+Added Pin To Net: NetName=IBP Pin=U6-5
+Added Net: Name=IBP
+Added Pin To Net: NetName=ICN Pin=C26-1
+Added Pin To Net: NetName=ICN Pin=R36-2
+Added Pin To Net: NetName=ICN Pin=U6-8
+Added Net: Name=ICN
+Added Pin To Net: NetName=ICP Pin=C25-2
+Added Pin To Net: NetName=ICP Pin=R30-2
+Added Pin To Net: NetName=ICP Pin=U6-7
+Added Net: Name=ICP
+Added Pin To Net: NetName=ISOL_RE Pin=IC1-2
+Added Pin To Net: NetName=ISOL_RE Pin=IC1-3
+Added Pin To Net: NetName=ISOL_RE Pin=R8-1
+Added Pin To Net: NetName=ISOL_RE Pin=U4-4
+Added Net: Name=ISOL_RE
+Added Pin To Net: NetName=ISOL_RX Pin=IC1-1
+Added Pin To Net: NetName=ISOL_RX Pin=U3-2
+Added Net: Name=ISOL_RX
+Added Pin To Net: NetName=ISOL_TX Pin=IC1-4
+Added Pin To Net: NetName=ISOL_TX Pin=R10-1
+Added Pin To Net: NetName=ISOL_TX Pin=U5-4
+Added Net: Name=ISOL_TX
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=J4-3
+Added Pin To Net: NetName=NetC2_1 Pin=L1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=J4-1
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=NetC2_2 Pin=VR1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetCT1_1 Pin=CT1-1
+Added Pin To Net: NetName=NetCT1_1 Pin=J1-1
+Added Net: Name=NetCT1_1
+Added Pin To Net: NetName=NetCT1_2 Pin=CT1-2
+Added Pin To Net: NetName=NetCT1_2 Pin=J1-2
+Added Net: Name=NetCT1_2
+Added Pin To Net: NetName=NetCT1_3 Pin=CT1-3
+Added Pin To Net: NetName=NetCT1_3 Pin=R16-1
+Added Pin To Net: NetName=NetCT1_3 Pin=R17-1
+Added Net: Name=NetCT1_3
+Added Pin To Net: NetName=NetCT1_4 Pin=CT1-4
+Added Pin To Net: NetName=NetCT1_4 Pin=R18-2
+Added Pin To Net: NetName=NetCT1_4 Pin=R19-1
+Added Net: Name=NetCT1_4
+Added Pin To Net: NetName=NetCT2_1 Pin=CT2-1
+Added Pin To Net: NetName=NetCT2_1 Pin=J1-3
+Added Net: Name=NetCT2_1
+Added Pin To Net: NetName=NetCT2_2 Pin=CT2-2
+Added Pin To Net: NetName=NetCT2_2 Pin=J1-4
+Added Net: Name=NetCT2_2
+Added Pin To Net: NetName=NetCT2_3 Pin=CT2-3
+Added Pin To Net: NetName=NetCT2_3 Pin=R21-1
+Added Pin To Net: NetName=NetCT2_3 Pin=R26-1
+Added Net: Name=NetCT2_3
+Added Pin To Net: NetName=NetCT2_4 Pin=CT2-4
+Added Pin To Net: NetName=NetCT2_4 Pin=R27-2
+Added Pin To Net: NetName=NetCT2_4 Pin=R29-1
+Added Net: Name=NetCT2_4
+Added Pin To Net: NetName=NetCT3_1 Pin=CT3-1
+Added Pin To Net: NetName=NetCT3_1 Pin=J1-5
+Added Net: Name=NetCT3_1
+Added Pin To Net: NetName=NetCT3_2 Pin=CT3-2
+Added Pin To Net: NetName=NetCT3_2 Pin=J1-6
+Added Net: Name=NetCT3_2
+Added Pin To Net: NetName=NetCT3_3 Pin=CT3-3
+Added Pin To Net: NetName=NetCT3_3 Pin=R30-1
+Added Pin To Net: NetName=NetCT3_3 Pin=R32-1
+Added Net: Name=NetCT3_3
+Added Pin To Net: NetName=NetCT3_4 Pin=CT3-4
+Added Pin To Net: NetName=NetCT3_4 Pin=R34-2
+Added Pin To Net: NetName=NetCT3_4 Pin=R36-1
+Added Net: Name=NetCT3_4
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D5-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D6-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=K?-COIL2
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J3-4
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=K?-NC
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=K?-COM
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=K?-NO
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=R12-2
+Added Pin To Net: NetName=NetJ2_6 Pin=R13-2
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Pin To Net: NetName=NetJ2_7 Pin=R13-1
+Added Pin To Net: NetName=NetJ2_7 Pin=R14-2
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R37-2
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R46-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R55-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ5_9 Pin=U6-29
+Added Net: Name=NetJ5_9
+Added Pin To Net: NetName=NetJ5_10 Pin=U6-31
+Added Net: Name=NetJ5_10
+Added Pin To Net: NetName=NetJ5_12 Pin=U6-30
+Added Net: Name=NetJ5_12
+Added Pin To Net: NetName=NetJ6_2 Pin=U6-24
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=U5-2
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=U6-23
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=U4-2
+Added Net: Name=NetJ6_5
+Added Pin To Net: NetName=NetJ6_6 Pin=U6-22
+Added Net: Name=NetJ6_6
+Added Pin To Net: NetName=NetJ6_7 Pin=R2-2
+Added Pin To Net: NetName=NetJ6_7 Pin=U3-4
+Added Net: Name=NetJ6_7
+Added Pin To Net: NetName=NetJ6_8 Pin=U6-34
+Added Net: Name=NetJ6_8
+Added Pin To Net: NetName=NetJ6_9 Pin=R?-1
+Added Net: Name=NetJ6_9
+Added Pin To Net: NetName=NetJ6_10 Pin=U6-33
+Added Net: Name=NetJ6_10
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=PS1-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=NetL1_3 Pin=PS1-1
+Added Net: Name=NetL1_3
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Pin To Net: NetName=NetL1_4 Pin=R1-2
+Added Net: Name=NetL1_4
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R28-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R31-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R33-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R35-1
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U3-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U4-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U5-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=R38-2
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=R39-2
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=R40-2
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R41-2
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=R42-2
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=R43-2
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR46_1 Pin=R47-2
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=R48-2
+Added Net: Name=NetR47_1
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR48_1 Pin=R49-2
+Added Net: Name=NetR48_1
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetR49_1 Pin=R50-2
+Added Net: Name=NetR49_1
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=R51-2
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=R52-2
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=R56-2
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=R57-2
+Added Net: Name=NetR56_1
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=R58-2
+Added Net: Name=NetR57_1
+Added Pin To Net: NetName=NetR58_1 Pin=R58-1
+Added Pin To Net: NetName=NetR58_1 Pin=R59-2
+Added Net: Name=NetR58_1
+Added Pin To Net: NetName=NetR59_1 Pin=R59-1
+Added Pin To Net: NetName=NetR59_1 Pin=R60-2
+Added Net: Name=NetR59_1
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=R61-2
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetU6_20 Pin=U6-20
+Added Pin To Net: NetName=NetU6_20 Pin=X1-1
+Added Net: Name=NetU6_20
+Added Pin To Net: NetName=NetU6_21 Pin=U6-21
+Added Pin To Net: NetName=NetU6_21 Pin=X1-2
+Added Net: Name=NetU6_21
+Added Pin To Net: NetName=NRESET Pin=C23-2
+Added Pin To Net: NetName=NRESET Pin=R20-1
+Added Pin To Net: NetName=NRESET Pin=U6-41
+Added Net: Name=NRESET
+Added Pin To Net: NetName=PPEM_CK Pin=R23-1
+Added Pin To Net: NetName=PPEM_CK Pin=U6-38
+Added Net: Name=PPEM_CK
+Added Pin To Net: NetName=PPEM_CS Pin=R22-1
+Added Pin To Net: NetName=PPEM_CS Pin=U6-37
+Added Net: Name=PPEM_CS
+Added Pin To Net: NetName=PPEM_DI Pin=R24-1
+Added Pin To Net: NetName=PPEM_DI Pin=U6-40
+Added Net: Name=PPEM_DI
+Added Pin To Net: NetName=PPEM_DO Pin=R25-1
+Added Pin To Net: NetName=PPEM_DO Pin=U6-39
+Added Net: Name=PPEM_DO
+Added Pin To Net: NetName=RS485_A Pin=C12-2
+Added Pin To Net: NetName=RS485_A Pin=D2-1
+Added Pin To Net: NetName=RS485_A Pin=D3-1
+Added Pin To Net: NetName=RS485_A Pin=IC1-6
+Added Pin To Net: NetName=RS485_A Pin=R11-1
+Added Pin To Net: NetName=RS485_A Pin=R12-1
+Added Net: Name=RS485_A
+Added Pin To Net: NetName=RS485_B Pin=C13-2
+Added Pin To Net: NetName=RS485_B Pin=D2-2
+Added Pin To Net: NetName=RS485_B Pin=D4-1
+Added Pin To Net: NetName=RS485_B Pin=IC1-7
+Added Pin To Net: NetName=RS485_B Pin=R14-1
+Added Pin To Net: NetName=RS485_B Pin=R15-2
+Added Net: Name=RS485_B
+Added Pin To Net: NetName=VAN Pin=C28-2
+Added Pin To Net: NetName=VAN Pin=R45-1
+Added Pin To Net: NetName=VAN Pin=U6-14
+Added Net: Name=VAN
+Added Pin To Net: NetName=VAP Pin=C27-2
+Added Pin To Net: NetName=VAP Pin=R43-1
+Added Pin To Net: NetName=VAP Pin=R44-1
+Added Pin To Net: NetName=VAP Pin=U6-13
+Added Net: Name=VAP
+Added Pin To Net: NetName=VBN Pin=C30-2
+Added Pin To Net: NetName=VBN Pin=R54-1
+Added Pin To Net: NetName=VBN Pin=U6-16
+Added Net: Name=VBN
+Added Pin To Net: NetName=VBP Pin=C29-2
+Added Pin To Net: NetName=VBP Pin=R52-1
+Added Pin To Net: NetName=VBP Pin=R53-1
+Added Pin To Net: NetName=VBP Pin=U6-15
+Added Net: Name=VBP
+Added Pin To Net: NetName=VCN Pin=C32-2
+Added Pin To Net: NetName=VCN Pin=R63-1
+Added Pin To Net: NetName=VCN Pin=U6-18
+Added Net: Name=VCN
+Added Pin To Net: NetName=VCP Pin=C31-2
+Added Pin To Net: NetName=VCP Pin=R61-1
+Added Pin To Net: NetName=VCP Pin=R62-1
+Added Pin To Net: NetName=VCP Pin=U6-17
+Added Net: Name=VCP
+Added Pin To Net: NetName=VDD18 Pin=C16-2
+Added Pin To Net: NetName=VDD18 Pin=C17-2
+Added Pin To Net: NetName=VDD18 Pin=U6-42
+Added Pin To Net: NetName=VDD18 Pin=U6-43
+Added Net: Name=VDD18
+Added Pin To Net: NetName=VREF Pin=C18-2
+Added Pin To Net: NetName=VREF Pin=C19-2
+Added Pin To Net: NetName=VREF Pin=U6-11
+Added Net: Name=VREF
+Added Class: Name=Sheet2
+Added Class: Name=Sheet3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

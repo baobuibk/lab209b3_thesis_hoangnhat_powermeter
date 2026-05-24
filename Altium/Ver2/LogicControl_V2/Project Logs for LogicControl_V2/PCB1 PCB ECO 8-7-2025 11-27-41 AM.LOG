@@ -1,0 +1,146 @@
+Added Component: Designator=J2(SSM-106-XXX-DV-BE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm-105-s-dv/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssm-1xx-xxx-dv-xx-xx-xxx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSM105SDV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSM-105-S-DV?qs=XtX6y9BSeMiNY1vJI%2FFCQQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(SSM-106-XXX-DV-BE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm-105-s-dv/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssm-1xx-xxx-dv-xx-xx-xxx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM-105-S-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SSM105SDV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SSM-105-S-DV?qs=XtX6y9BSeMiNY1vJI%2FFCQQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD_GRAP_20PIN)
+Add component (AddParameter): Name = "Category"; Value = "LCD, OLED, Graphic Displays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/NWAL/NWALS00082/NWALS00082-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/NWAL/NWALS00082/NWALS00082-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2102/nhd-12864az-nsw-bbw-tr-2102907.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2102/nhd-12864az-nsw-bbw-tr-2102907.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16231/nhd-12864az-nsw-bbw-tr-16231892.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16231/nhd-12864az-nsw-bbw-tr-16231892.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/5326/nhd-12864az-nsw-bbw-tr-52487-5326437.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/5326/nhd-12864az-nsw-bbw-tr-52487-5326437.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/30204/nhd-12864az-nsw-bbw-tr-30204634.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/30204/nhd-12864az-nsw-bbw-tr-30204634.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Newhaven Display"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NHD-12864AZ-NSW-BBW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=31,34, 5=29,46, 10=27,579, 50=26,0124, 100=24,7588, 250=23,50516 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "303"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NHD-12864AZ-NSW-BBW-TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MD1(FP-ESP32-WROOM-32-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "150Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.5GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-98dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.088185oz"; VariantName = "[No Variations]"
+Added Component: Designator=R35(TRIM_TC33X-2-103E)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TC33X-2-103E/Bourns/view-part/47092/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "TC33X-103ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TC33X-2-103E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-23 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TC33X-2-103E/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TC33X-2-103E/Bourns/view-part/47092/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCK Pin=J2-1
+Added Pin To Net: NetName=MISO Pin=J2-2
+Added Pin To Net: NetName=PPEM_CS Pin=J2-3
+Added Pin To Net: NetName=MOSI Pin=J2-4
+Added Pin To Net: NetName=PM1 Pin=J2-5
+Added Pin To Net: NetName=CF4 Pin=J2-6
+Added Pin To Net: NetName=PM0 Pin=J2-7
+Added Pin To Net: NetName=CF3 Pin=J2-8
+Added Pin To Net: NetName=IRQ1 Pin=J2-9
+Added Pin To Net: NetName=CF2 Pin=J2-10
+Added Pin To Net: NetName=IRQ0 Pin=J2-11
+Added Pin To Net: NetName=CF1 Pin=J2-12
+Added Pin To Net: NetName=RS485_TX Pin=J3-1
+Added Pin To Net: NetName=WarnOut Pin=J3-2
+Added Pin To Net: NetName=RS485_RE Pin=J3-3
+Added Pin To Net: NetName=ZX0 Pin=J3-4
+Added Pin To Net: NetName=+3.3V Pin=J3-5
+Added Pin To Net: NetName=ZX2 Pin=J3-6
+Added Pin To Net: NetName=RS485_RX Pin=J3-7
+Added Pin To Net: NetName=ZX1 Pin=J3-8
+Added Pin To Net: NetName=Relay Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=+5V Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=LCD_BL_K Pin=LCD1-1
+Added Pin To Net: NetName=+5V Pin=LCD1-2
+Added Pin To Net: NetName=LCD_VOUT Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Pin To Net: NetName=NetLCD1_15 Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_16 Pin=LCD1-16
+Added Pin To Net: NetName=NetLCD1_17 Pin=LCD1-17
+Added Pin To Net: NetName=LCD_V0 Pin=LCD1-18
+Added Pin To Net: NetName=+5V Pin=LCD1-19
+Added Pin To Net: NetName=GND Pin=LCD1-20
+Added Pin To Net: NetName=GND Pin=MD1-1
+Added Pin To Net: NetName=+3.3V Pin=MD1-2
+Added Pin To Net: NetName=NetMD1_3 Pin=MD1-3
+Added Pin To Net: NetName=NetMD1_6 Pin=MD1-6
+Added Pin To Net: NetName=NetMD1_7 Pin=MD1-7
+Added Pin To Net: NetName=NetMD1_8 Pin=MD1-8
+Added Pin To Net: NetName=NetMD1_9 Pin=MD1-9
+Added Pin To Net: NetName=NetMD1_10 Pin=MD1-10
+Added Pin To Net: NetName=NetMD1_11 Pin=MD1-11
+Added Pin To Net: NetName=NetMD1_12 Pin=MD1-12
+Added Pin To Net: NetName=NetMD1_13 Pin=MD1-13
+Added Pin To Net: NetName=NetMD1_14 Pin=MD1-14
+Added Pin To Net: NetName=GND Pin=MD1-15
+Added Pin To Net: NetName=NetMD1_16 Pin=MD1-16
+Added Pin To Net: NetName=NetMD1_23 Pin=MD1-23
+Added Pin To Net: NetName=NetMD1_24 Pin=MD1-24
+Added Pin To Net: NetName=NetMD1_25 Pin=MD1-25
+Added Pin To Net: NetName=NetMD1_26 Pin=MD1-26
+Added Pin To Net: NetName=NetMD1_27 Pin=MD1-27
+Added Pin To Net: NetName=NetMD1_28 Pin=MD1-28
+Added Pin To Net: NetName=NetMD1_29 Pin=MD1-29
+Added Pin To Net: NetName=NetMD1_30 Pin=MD1-30
+Added Pin To Net: NetName=NetMD1_31 Pin=MD1-31
+Added Pin To Net: NetName=NetMD1_33 Pin=MD1-33
+Added Pin To Net: NetName=NetMD1_34 Pin=MD1-34
+Added Pin To Net: NetName=NetMD1_35 Pin=MD1-35
+Added Pin To Net: NetName=NetMD1_36 Pin=MD1-36
+Added Pin To Net: NetName=NetMD1_37 Pin=MD1-37
+Added Pin To Net: NetName=GND Pin=MD1-38
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=LCD_V0 Pin=R35-2
+Added Pin To Net: NetName=LCD_VOUT Pin=R35-3
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Added Member To Class: ClassName=Sheet2 Member=Component J2 SSM-106-S-DV
+Added Member To Class: ClassName=Sheet2 Member=Component J3 SSM-106-S-DV
+Added Member To Class: ClassName=Sheet2 Member=Component LCD1 DISPLAY_LCDGRAP
+Added Member To Class: ClassName=Sheet2 Member=Component MD1 ESP32-WROOM-32
+Added Member To Class: ClassName=Sheet2 Member=Component R35 20K

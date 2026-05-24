@@ -1,0 +1,15 @@
+Remove Pin=R20-2 From Net=LCD_SS
+Remove Pin=R22-2 From Net=ZX1
+Remove Pin=R23-2 From Net=ZX2
+Remove Pin=R24-2 From Net=ZX0
+Add Pin To Net: Pin=R3-2 Old Net=NetR3_2 New Net=IRQ1
+Add Pin To Net: Pin=R5-2 Old Net=NetR5_2 New Net=IRQ0
+Add Pin To Net: Pin=R7-2 Old Net=NetR7_2 New Net=Relay
+Add Pin To Net: Pin=R11-2 Old Net=NetR11_2 New Net=PPEM_CS
+Add Pin To Net: Pin=R17-2 Old Net=NetR17_2 New Net=PM0
+Add Pin To Net: Pin=R18-2 Old Net=NetR18_2 New Net=PM1
+Add Pin To Net: Pin=R20-2 Old Net=LCD_SS New Net=LCD_BL
+Add Pin To Net: Pin=R21-2 Old Net=NetR21_2 New Net=LCD_SS
+Add Pin To Net: Pin=R22-2 Old Net=ZX1 New Net=RS485_RE
+Add Pin To Net: Pin=R23-2 Old Net=ZX2 New Net=ZX0
+Add Pin To Net: Pin=R24-2 Old Net=ZX0 New Net=WarnOut

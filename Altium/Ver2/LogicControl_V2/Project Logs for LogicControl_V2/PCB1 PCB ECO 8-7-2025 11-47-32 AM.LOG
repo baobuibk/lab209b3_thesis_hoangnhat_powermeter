@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-323 New Footprint=SOT95P237X112-3N
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-323 New Footprint=SOT95P237X112-3N
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4

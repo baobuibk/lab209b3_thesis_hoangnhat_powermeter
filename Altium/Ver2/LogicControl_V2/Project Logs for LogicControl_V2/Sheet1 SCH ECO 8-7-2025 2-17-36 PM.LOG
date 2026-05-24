@@ -1,0 +1,8 @@
+Add Pin To Net: Pin=R20-2 Old Net=NetR20_2 New Net=LCD_SS
+Add Pin To Net: Pin=R22-2 Old Net=NetR22_2 New Net=ZX1
+Add Pin To Net: Pin=R23-2 Old Net=NetR23_2 New Net=ZX2
+Add Pin To Net: Pin=R24-2 Old Net=NetR24_2 New Net=ZX0
+Add Pin To Net: Pin=R25-2 Old Net=NetR25_2 New Net=Key2
+Add Pin To Net: Pin=R27-2 Old Net=NetR27_2 New Net=Key3
+Add Pin To Net: Pin=R29-2 Old Net=NetR29_2 New Net=Key0
+Add Pin To Net: Pin=R30-2 Old Net=NetR30_2 New Net=Key1
